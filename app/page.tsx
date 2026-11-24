@@ -20,8 +20,7 @@ export default function HomePage() {
           playsInline
           className="w-full h-full object-cover scale-105"
         >
-          <source src="/videos/clean-energy.mp4" type="video/mp4" />
-          <source src="/videos/clean-energy.mov" type="video/quicktime" />
+          <source src="/videos/vertical-garden.mp4" type="video/mp4" />
         </video>
 
         {/* Cinematic Gradient Overlays */}
